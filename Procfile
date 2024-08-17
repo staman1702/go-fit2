@@ -1,0 +1,1 @@
+web: gunicorn go-fit2.wsgi:application
